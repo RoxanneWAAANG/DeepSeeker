@@ -70,7 +70,7 @@ Preliminary testing shows that the average response time is within acceptable li
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/DeepSeeker_RAG.git
+git clone https://github.com/RoxanneWAAANG/DeepSeeker.git
 cd DeepSeeker_RAG
 ```
 
