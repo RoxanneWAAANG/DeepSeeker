@@ -1,5 +1,7 @@
 # DeepSeeker-RAG
 
+### Demo: https://huggingface.co/spaces/Roxanne-WANG/DeepSeeker_RAG
+
 DeepSeeker-RAG is a Retrieval-Augmented Generation (RAG) system built from scratch to improve response performance in a specific domain—namely, academic research papers from the DeepSeek collection. This project integrates domain-specific knowledge into a large language model’s responses by retrieving relevant text chunks and augmenting the prompt with additional context.
 
 ## Objective
